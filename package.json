@@ -11,11 +11,8 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "canvas": "^1.6.0",
-    "d3-measure-text": "0.0.2",
     "easyimage": "^2.1.0",
-    "ejs": "^2.5.2",
     "express": "^4.14.0",
-    "gm": "^1.23.0",
     "imgur": "^0.1.7",
     "lwip": "0.0.9",
     "mongodb": "^2.2.10",
