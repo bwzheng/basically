@@ -1,0 +1,37 @@
+{
+  "name": "basically",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Bowen Zheng",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "canvas": "^1.6.0",
+    "d3-measure-text": "0.0.2",
+    "easyimage": "^2.1.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "gm": "^1.23.0",
+    "imgur": "^0.1.7",
+    "lwip": "0.0.9",
+    "mongodb": "^2.2.10",
+    "node-summary": "^1.1.0",
+    "qr-image": "^3.1.0",
+    "qrcode": "^0.5.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.75.0",
+    "unfluff": "^1.1.0",
+    "valid-url": "^1.0.9"
+  },
+  "start": "node server.js",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "engines": {
+    "node": "4.4.7"
+  }
+}
